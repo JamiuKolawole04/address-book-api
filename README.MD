@@ -13,7 +13,7 @@ To run this service, you need to have the following dependencies installed:
 
 - NodeJS [version 10 or greater](https://nodejs.org).
 - Yarn [version 1 or greater]() or Npm [version 5 or greater]("it comes with nodejs on installation").
-- Mongodb [installed locally or with mongodb atlas or any mongodb link of your choice, it must be valid](https://mongodb.com).
+- Mongodb [installed locally or with mongodb atlas or any mongodb link of your choice, it must be valid](https://www.mongodb.com/try/download/community2).
 
 * Download or clone this application to your computer `https://github.com/JamiuKolawole04/address-book-api.git`
 * Navigate to the project directory
