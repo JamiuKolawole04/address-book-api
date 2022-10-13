@@ -15,7 +15,7 @@ To run this service, you need to have the following dependencies installed:
 - Yarn [version 1 or greater]() or Npm [version 5 or greater]("it comes with nodejs on installation").
 - Mongodb [installed locally or with mongodb atlas or any mongodb link of your choice, it must be valid](https://mongodb.com).
 
-* Download or clone this application to your computer `https://github.com/Fastrack-Platform/fastrack.admin-center.api.git && cd fastrack.admin-center.api`
+* Download or clone this application to your computer `https://github.com/JamiuKolawole04/address-book-api.git`
 * Navigate to the project directory
 * Install all dependencies using `npm install` or `yarn`
 * Set up .env file in the root directory
